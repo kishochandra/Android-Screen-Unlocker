@@ -35,7 +35,6 @@ Submit a pull request to the original repository.
 License
 # This project is licensed under the MIT License. See the LICENSE file for details.
 
-If you want to change the license, replace the license badge and link in the README.md file and create a new LICENSE file with the new license text.
 
 # Credits
 This project was created by chandraraj kisho
